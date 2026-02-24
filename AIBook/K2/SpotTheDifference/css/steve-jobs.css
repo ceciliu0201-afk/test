@@ -264,7 +264,7 @@ body, ul, table, form{
 	width:460px;
 	height:582px;
 	background-color:white;
-	overflow:hidden;
+	overflow:visible;
 }
 
 .sj-book .even{
@@ -373,3 +373,9 @@ body, ul, table, form{
 	background-repeat:repeat-y;
 }
 
+.sj-book .book-content img {
+	max-width: 100% !important;
+	height: auto !important;
+	display: block;
+	margin: 0 auto;
+}
