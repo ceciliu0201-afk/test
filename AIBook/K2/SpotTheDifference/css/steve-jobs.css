@@ -21,13 +21,13 @@ body, ul, table, form{
 	transition:margin-left 0.2s ease-in-out;
 }
 
-
-
-#book-zoom{#canvas{
-	width: 1280px;
-	height: 800px;
-	margin: 50px auto;
+#canvas{
+	width: 960px;
+	height: 600px;
+	margin: 100px auto;
 }
+
+#book-zoom{
 	-webkit-transition: -webkit-transform 1s;
 	-moz-transition: -moz-transform 1s;
 	-ms-transition: -ms-transform 1s;
@@ -36,8 +36,8 @@ body, ul, table, form{
 }
 
 .sj-book{
-	width:1280px;
-	height:800px;
+	width:960px;
+	height:600px;
 }
 
 .sj-book h1{
