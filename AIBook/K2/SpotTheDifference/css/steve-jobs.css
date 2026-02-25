@@ -64,7 +64,10 @@ body, ul, table, form{
 	font-size:16px;
 	margin:10px 40px;
 }
-
+.sj-book .page-7-style {
+	margin-top: 70px !important;
+	color: #333;
+}
 .sj-book blockquote{
 	color:#586078;
 	margin:10px 0;
