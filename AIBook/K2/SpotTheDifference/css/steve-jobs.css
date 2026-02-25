@@ -22,7 +22,7 @@ body, ul, table, form{
 }
 
 #canvas{
-	width: 960px;
+	width: 480px;
 	height: 600px;
 	margin: 100px auto;
 }
@@ -36,7 +36,7 @@ body, ul, table, form{
 }
 
 .sj-book{
-	width:960px;
+	width:480px;
 	height:600px;
 }
 
@@ -183,7 +183,7 @@ body, ul, table, form{
 	height:600px;
 	position:absolute;
 	top:0;
-	left:475px;
+	left:235px;
 
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #bbb), color-stop(0.5,  #ddd), color-stop(1,  #bbb));
 	background-image:-webkit-linear-gradient(left, #bbb, #ddd, #bbb);
@@ -231,23 +231,23 @@ body, ul, table, form{
 
 
 .sj-book .p2{
-	background-position:-480px 0 !important;
+	background-position:-240px 0 !important;
 }
 
 .sj-book .p3{
-	background-position:-1920px 0 !important;
-}
-
-.sj-book .p27{
 	background-position:-960px 0 !important;
 }
 
+.sj-book .p27{
+	background-position:-480px 0 !important;
+}
+
 .sj-book .p28{
-	background-position:-1440px 0 !important;
+	background-position:-720px 0 !important;
 }
 
 .sj-book .hard{
-	width:480px;
+	width:240px;
 	height:600px;
 	background-color:white;
 	-webkit-box-shadow:none;
