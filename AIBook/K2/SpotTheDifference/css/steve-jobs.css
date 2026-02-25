@@ -173,6 +173,10 @@ body, ul, table, form{
 	background-color:white;
 	background-image:url(../pics/Covers.jpg) !important;
 }
+background-size: 500% 100% !important;
+background-repeat: no-repeat;
+background-color: white;
+}
 
 .sj-book .p1{
 	background-position:0 0;
