@@ -169,7 +169,7 @@ body, ul, table, form{
 .sj-book .p2,
 .sj-book .p3, 
 .sj-book .p27,
-.sj-book .p128{
+.sj-book .p28{
 	background-color:white;
 	background-image:url(../pics/Covers.jpg) !important;
 }
@@ -238,11 +238,11 @@ body, ul, table, form{
 	background-position:-1920px 0 !important;
 }
 
-.sj-book .p111{
+.sj-book .p27{
 	background-position:-960px 0 !important;
 }
 
-.sj-book .p112{
+.sj-book .p28{
 	background-position:-1440px 0 !important;
 }
 
