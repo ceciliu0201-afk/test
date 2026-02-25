@@ -187,7 +187,7 @@ background-color: white;
 	height:600px;
 	position:absolute;
 	top:0;
-	left:475px;
+	left:0px;
 
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0, #bbb), color-stop(0.5,  #ddd), color-stop(1,  #bbb));
 	background-image:-webkit-linear-gradient(left, #bbb, #ddd, #bbb);
@@ -239,15 +239,15 @@ background-color: white;
 }
 
 .sj-book .p3{
-	background-position:100% 0 !important;
-}
-
-.sj-book .p27{
 	background-position:50% 0 !important;
 }
 
-.sj-book .p28{
+.sj-book .p27{
 	background-position:75% 0 !important;
+}
+
+.sj-book .p28{
+	background-position:100% 0 !important;
 }
 
 .sj-book .hard{
